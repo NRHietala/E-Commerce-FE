@@ -139,6 +139,9 @@ table {
 html {
   // Relative Unit allows text magnification on page zoom
   font-size: 62.5%;
+  
+  // Temp background color so I don't go blind
+  background: #131516;
 }
 `;
 

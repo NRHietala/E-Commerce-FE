@@ -1,10 +1,12 @@
 import React from "react";
+import { StyleReset } from "./styles/index";
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <StyleReset />
       <p>I'm working 🙂</p>
-    </div>
+    </>
   );
 }
 
